@@ -6,6 +6,7 @@ This program is a basic maze solver that takes in the photo of a maze and output
 The point of this project was familiarize myself with graphs (networks of nodes), pathfinding algorithms (Dijkstra's and A*), multithreaded programming, and the SFML library. 
 
 ## Showcase
+<!---All of these gifs have been manually synchronized to have a total of 150 frames and to start solving on the 30th frame. These were shot with OBS and then edited on ezgif.com--->
 ![Generated Small Maze - Dijkstra](<Maze Gifs/Generated Small Maze - Dijkstra.gif>)
 
 ![Generated Small Maze 2 - Dijkstra](<Maze Gifs/Generated Small Maze 2 - Dijkstra.gif>)
