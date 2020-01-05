@@ -20,6 +20,8 @@ A*: <br>
 
 It should be noted that due to the fact that mazes usually only have one solution that is very intricate and does not always head directly towards the end goal, the advantage of A*'s direction heuristic tends to be marginalized. However, the advantage becomes more apparent in mazes made with various turns and solutions such as the following. 
 
+Dijkstra's: <br>
 <img src="Maze Gifs/Neutral Maze - Dijkstra.gif" alt="Neutral Maze - Dijkstra"  width=250/>
 
+A*: <br>
 <img src="Maze Gifs/Neutral Maze - A Star.gif" alt="Neutral Maze - A Star"  width=250/>
