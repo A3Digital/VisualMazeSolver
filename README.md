@@ -7,22 +7,39 @@ The point of this project was familiarize myself with graphs (networks of nodes)
 
 ## Showcase
 <!---All of these gifs have been manually synchronized to have a total of 150 frames and to start solving on the 30th frame. These were shot with OBS and then edited on ezgif.com--->
-<img src="Maze Gifs/Generated Small Maze - Dijkstra.gif" alt="Generated Small Maze - Dijkstra"  width=250/>
-
-<img src="Maze Gifs/Generated Small Maze 2 - Dijkstra.gif" alt="Generated Small Maze 2 - Dijkstra"  width=250/>
+<table style="width:100">
+  <tr>
+    <th>Small Maze 1</th>
+    <th>Small Maze 2</th>
+  </tr>
+  <tr>
+    <td><img src="Maze Gifs/Generated Small Maze - Dijkstra.gif" alt="Generated Small Maze - Dijkstra"  width=250/></td>
+    <td><img src="Maze Gifs/Generated Small Maze 2 - Dijkstra.gif" alt="Generated Small Maze 2 - Dijkstra"  width=250/></td>
+  </tr>
+</table>
 
 The following is the same maze solved with two different solving algorithms 
 
-Dijkstra's: <br>
-<img src="Maze Gifs/Generated 101x101 Maze - Dijkstra.gif" alt="Generated 101x101 Maze - Dijkstra"  width=250/>
-
-A*: <br>
-<img src="Maze Gifs/Generated 101x101 Maze - A Star.gif" alt="Generated 101x101 Maze - A Star"  width=250/>
+<table style="width:100">
+  <tr>
+    <th>Dijkstra's</th>
+    <th>A*</th>
+  </tr>
+  <tr>
+    <td><img src="Maze Gifs/Generated 101x101 Maze - Dijkstra.gif" alt="Generated 101x101 Maze - Dijkstra"  width=250/></td>
+    <td><img src="Maze Gifs/Generated 101x101 Maze - A Star.gif" alt="Generated 101x101 Maze - A Star"  width=250/></td>
+  </tr>
+</table>
 
 It should be noted that due to the fact that mazes usually only have one solution that is very intricate and does not always head directly towards the end goal, the advantage of A*'s direction heuristic tends to be marginalized. However, the advantage becomes more apparent in mazes made with various turns and solutions such as the following. 
 
-Dijkstra's: <br>
-<img src="Maze Gifs/Neutral Maze - Dijkstra.gif" alt="Neutral Maze - Dijkstra"  width=250/>
-
-A*: <br>
-<img src="Maze Gifs/Neutral Maze - A Star.gif" alt="Neutral Maze - A Star"  width=250/>
+<table style="width:100">
+  <tr>
+    <th>Dijkstra's</th>
+    <th>A*</th>
+  </tr>
+  <tr>
+    <td><img src="Maze Gifs/Neutral Maze - Dijkstra.gif" alt="Neutral Maze - Dijkstra"  width=250/></td>
+    <td><img src="Maze Gifs/Neutral Maze - A Star.gif" alt="Neutral Maze - A Star"  width=250/></td>
+  </tr>
+</table>
